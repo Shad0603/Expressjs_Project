@@ -20,7 +20,7 @@ This is a simple RESTful API for managing a list of grocery items, built using N
    npm install
 3. **Run the server:**
    ```bash
-   node server.js
+   node index.js
 4. **Access the API:**  
    Open your browser or API client (e.g., Postman) and go to http://localhost:3000.
 
