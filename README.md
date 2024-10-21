@@ -1,4 +1,4 @@
-# Item list API
+# Item List API
 
 This is a simple RESTful API for managing a list of items, built using Node.js and Express.
 
