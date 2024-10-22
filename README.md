@@ -1,7 +1,7 @@
 # Item List API
 
 This is a simple RESTful API for managing a list of items, built using Node.js and Express.  
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,postman&theme=light)](https://skillicons.dev)
 
 ## Features
 
