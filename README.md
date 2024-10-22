@@ -46,3 +46,6 @@ This is a simple RESTful API for managing a list of items, built using Node.js a
 - **DELETE /items/:id**
   - Deletes an item.
   - Response: 204 No Content or 404 if not found.
+
+## License  
+This project is open-source and licensed under the MIT License.
